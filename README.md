@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/RichardLeite">
-    <img alt="status" height="250em" src="https://github-readme-stats.vercel.app/api?username=RichardLeite&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&show_owner=true"/>
-    <img alt="TRINDADE" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardLeite&theme=tokyonight&hide_border=true"/>
+    <img alt="status" height="230em" src="https://github-readme-stats.vercel.app/api?username=RichardLeite&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&show_owner=true"/>
+    <img alt="TRINDADE" height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardLeite&theme=tokyonight&hide_border=true"/>
     <!-- <img alt="grafico" height="258em" src="https://github-readme-activity-graph.cyclic.app/graph?username=RichardLeite&bg_color=1a1b27&color=8064a5&line=5377b5&point=38bcad&area=true&hide_border=true"/> -->
   </a>
 </div>

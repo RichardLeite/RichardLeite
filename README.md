@@ -2,7 +2,7 @@
 
 <img width = 100% src="http://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=102,149,229,2,30height=120&section=header"/>
 
-![Texto SVg](https://readme-typing-svg.herokuapp.com/?color=fffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Richard+Leite;Tenho+22+anos;)
+![Texto SVg](https://readme-typing-svg.herokuapp.com/?color=fffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Richard+Leite;Tenho+23+anos;)
 
 <div align="center">
   <a href="https://github.com/RichardLeite">

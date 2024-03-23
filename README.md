@@ -2,7 +2,7 @@
 
 <img width = 100% src="http://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=102,149,229,2,30height=120&section=header"/>
 
-![Texto SVg](https://readme-typing-svg.herokuapp.com/?color=fffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Richard+Leite;Tenho+23+anos;)
+![Texto SVg](https://readme-typing-svg.herokuapp.com/?color=fffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Richard+Leite;I%27m+23+years+old;)
 
 <div align="center">
   <a href="https://github.com/RichardLeite">
@@ -12,22 +12,22 @@
   </a>
 </div>
 
-## Tecnologias que utilizo no dia a dia:
+## My Techs:
 
 <div style="display: inline_block; padding-top: 1.5rem"> 
-  <img align="center" alt="Richard-TypeScript" style="margin: 0 1rem" height="40" width="40" src="https://www.svgrepo.com/show/349540/typescript.svg">
-  <img align="center" alt="Richard-NodeJS"     style="margin: 0 1rem" height="40" width="40" src="https://www.svgrepo.com/show/354119/nodejs-icon.svg">
-  <img align="center" alt="Richard-React"      style="margin: 0 1rem" height="40" width="40" src="https://www.svgrepo.com/show/354259/react.svg">
-  <img align="center" alt="Richard-Js"         style="margin: 0 1rem" height="40" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg">
-  <img align="center" alt="Richard-HTML"       style="margin: 0 1rem" height="40" width="40" src="https://www.svgrepo.com/show/349402/html5.svg">
-  <img align="center" alt="Richard-CSS"        style="margin: 0 1rem" height="40" width="40" src="https://www.svgrepo.com/show/349330/css3.svg">
-  <img align="center" alt="Richard-C#"         style="margin: 0 1rem" height="50" width="50" src="https://www.svgrepo.com/show/452184/csharp.svg">
+  <img align="center" alt="TypeScript" style="margin: 0 1rem" height="40" width="40" src="https://www.svgrepo.com/show/349540/typescript.svg">
+  <img align="center" alt="NodeJS"     style="margin: 0 1rem" height="40" width="40" src="https://www.svgrepo.com/show/354119/nodejs-icon.svg">
+  <img align="center" alt="React"      style="margin: 0 1rem" height="40" width="40" src="https://www.svgrepo.com/show/354259/react.svg">
+  <img align="center" alt="Js"         style="margin: 0 1rem" height="40" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg">
+  <img align="center" alt="HTML"       style="margin: 0 1rem" height="40" width="40" src="https://www.svgrepo.com/show/349402/html5.svg">
+  <img align="center" alt="CSS"        style="margin: 0 1rem" height="40" width="40" src="https://www.svgrepo.com/show/349330/css3.svg">
+  <img align="center" alt="C#"         style="margin: 0 1rem" height="50" width="50" src="https://www.svgrepo.com/show/452184/csharp.svg">
 </div>
 
 #
 
 <div>
-  <a href="https://www.linkedin.com/in/richard-leite/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/richard-leite-204831295" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:rs9010482@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
